@@ -1,0 +1,84 @@
+{
+    "links": [
+        {
+            "source": "Huawei-Ku", 
+            "target": "Huawei-1", 
+            "value": "10"
+        },    
+        {
+            "source": "Huawei-1", 
+            "target": "Router UGM", 
+            "value": "40"
+        }, 
+        {
+            "source": "Huawei-1", 
+            "target": "Cisco1", 
+            "value": "10"
+        }, 
+        {
+            "source": "Cisco2", 
+            "target": "PC8", 
+            "value": "10"
+        },
+        {
+            "source": "Cisco2", 
+            "target": "PC3", 
+            "value": "10"
+        },  
+        {
+            "source": "Cisco2", 
+            "target": "Huawei-Ku", 
+            "value": "10"
+        }, 
+        {
+            "source": "Cisco1", 
+            "target": "PC7", 
+            "value": "10"
+        },
+        {
+            "source": "Cisco1", 
+            "target": "PC4", 
+            "value": "10"
+        }
+        
+
+    ], 
+    "nodes": [
+        {
+            "group": "2", 
+            "id": "Huawei-Ku"
+        }, 
+        {
+            "group": "1", 
+            "id": "PC7"
+        }, 
+        {
+            "group": "3", 
+            "id": "Router UGM"
+        }, 
+        {
+            "group": "1", 
+            "id": "PC4"
+        }, 
+        {
+            "group": "1", 
+            "id": "PC8"
+        }, 
+        {
+            "group": "2", 
+            "id": "Huawei-1"
+        }, 
+        {
+            "group": "2", 
+            "id": "Cisco2"
+        }, 
+        {
+            "group": "2", 
+            "id": "Cisco1"
+        }, 
+        {
+            "group": "1", 
+            "id": "PC3"
+        }
+    ]
+}

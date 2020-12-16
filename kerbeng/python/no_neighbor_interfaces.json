@@ -1,0 +1,269 @@
+{
+    "Cisco2": [
+        {
+            "actual_bandwith": "20000000", 
+            "admin_status": "UP", 
+            "description": "TwentyGigE1/0/1 Interface", 
+            "Local_Interface": "TwentyGigE1/0/1", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "20000000", 
+            "admin_status": "UP", 
+            "description": "TwentyGigE1/0/2 Interface", 
+            "Local_Interface": "TwentyGigE1/0/2", 
+            "oper_status": "UP"
+        }
+    ], 
+    "Cisco2": [
+        {
+            "actual_bandwith": "20000000", 
+            "admin_status": "UP", 
+            "description": "TwentyGigE1/0/1 Interface", 
+            "Local_Interface": "TwentyGigE1/0/1", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "20000000", 
+            "admin_status": "UP", 
+            "description": "TwentyGigE1/0/2 Interface", 
+            "Local_Interface": "TwentyGigE1/0/2", 
+            "oper_status": "UP"
+        }
+    ], 
+   
+
+    "Huawei-Ku": [
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/1 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/1", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/2 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/2", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/3 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/3", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/4 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/4", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U05  2M263004FM", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/5", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U06  2M263004FN", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/6", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/7 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/7", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/8 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/8", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/11 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/11", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/12 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/12", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U13  2M263004FW", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/13", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U14  2M263004FX", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/14", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U192M263004G2", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/19", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U202M263004G3", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/20", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/21 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/21", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/22 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/22", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/23 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/23", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/24 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/24", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U05  2M263004FM", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/25", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U06  2M263004FN", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/26", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/27 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/27", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/28 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/28", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/32 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/32", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/33 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/33", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U14  2M263004FX", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/34", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U15 2M263004FY", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/35", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U162M263004FZ", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/36", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U172M263004G0", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/37", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U182M263004G1", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/38", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR21-U03 2M263004G6", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/41", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "AR20-U192M263004G2", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/47", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "10000000", 
+            "admin_status": "UP", 
+            "description": "Ten-GigabitEthernet1/0/48 Interface", 
+            "Local_Interface": "Ten-GigabitEthernet1/0/48", 
+            "oper_status": "UP"
+        }, 
+        {
+            "actual_bandwith": "40000000", 
+            "admin_status": "UP", 
+            "description": "To IXIA RG1 -40G- Port2", 
+            "Local_Interface": "FortyGigE1/0/51", 
+            "oper_status": "UP"
+        }
+    ]
+}

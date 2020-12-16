@@ -1,0 +1,69 @@
+{
+    "Cisco2": [
+        {
+            "Local_Interface": "FortyGigE1/1/4", 
+            "Neighbor": "Huawei-Ku", 
+            "Neighbor_Interface": "FortyGigE1/0/7"
+        }, 
+        {
+            "Local_Interface": "Ten-GigabitEthernet1/0/17", 
+            "Neighbor": "PC8", 
+            "Neighbor_Interface": "Ten-GigabitEthernet1/0/17"
+        }, 
+        {
+            "Local_Interface": "Ten-GigabitEthernet1/0/18", 
+            "Neighbor": "PC3", 
+            "Neighbor_Interface": "Ten-GigabitEthernet1/0/18"
+        }
+    ], 
+
+    "Huawei-Ku": [
+        {
+            "Local_Interface": "Ten-GigabitEthernet1/0/44", 
+            "Neighbor": "Huawei-1", 
+            "Neighbor_Interface": "FortyGigE1/0/50"
+        }, 
+        {
+            "Local_Interface": "FortyGigE1/0/50", 
+            "Neighbor": "Cisco2", 
+            "Neighbor_Interface": "FortyGigE1/0/50"
+        } 
+
+    ],
+    "Huawei-1": [
+        {
+            "Local_Interface": "Ten-GigabitEthernet1/0/44", 
+            "Neighbor": "Router UGM", 
+            "Neighbor_Interface": "FortyGigE1/0/50"
+        }, 
+        {
+            "Local_Interface": "FortyGigE1/0/50", 
+            "Neighbor": "Cisco1", 
+            "Neighbor_Interface": "FortyGigE1/0/40"
+        },
+        {
+            "Local_Interface": "FortyGigE1/0/40", 
+            "Neighbor": "Huawei-Ku", 
+            "Neighbor_Interface": "FortyGigE1/0/40"
+        }
+
+    ],
+    "Cisco1": [
+        {
+            "Local_Interface": "Ten-GigabitEthernet1/0/44", 
+            "Neighbor": "PC7", 
+            "Neighbor_Interface": "FortyGigE1/0/4"
+        }, 
+        {
+            "Local_Interface": "FortyGigE1/0/50", 
+            "Neighbor": "PC4", 
+            "Neighbor_Interface": "FortyGigE1/0/4"
+        },
+        {
+            "Local_Interface": "FortyGigE1/0/40", 
+            "Neighbor": "Huawei-1", 
+            "Neighbor_Interface": "FortyGigE1/0/50"
+        }
+
+    ]
+}
